@@ -1,4 +1,3 @@
-<img width="979" height="54" alt="스크린샷 2026-06-18 122920" src="https://github.com/user-attachments/assets/597e59f1-3ea9-489a-8d67-8d47e366382c" /># ops-recovery-drills
 장애 대응 시나리오
 
 
